@@ -1,0 +1,37 @@
+
+/* logo strts here */
+.logo {
+    background-color: orange;
+    color: white;
+}
+/* menu strts here */
+.menu{
+    background-color: #ffc587;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding-top: 17px;
+}
+
+.menu li a{
+    padding: 4px 13px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+/* content strts here */
+.content1{
+    background-color: #ffe0bf;
+}
+.Ads{
+    background-color: #fdb971 ;
+    
+}
+
+/* footer strts here */
+.footer{
+    padding-top: 11px;
+    background-color: black;
+    color: white;
+}
